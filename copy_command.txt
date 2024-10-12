@@ -1,0 +1,1 @@
+scp -i ~/Downloads/first_ec2_key.pem -r ~/Documents/GDSC ec2-user@52.90.230.111:/home/ec2-user
